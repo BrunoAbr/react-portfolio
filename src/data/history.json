@@ -1,0 +1,18 @@
+[
+  {
+    "role": "Software Engineer",
+    "organisation": "Matrix Go",
+    "startDate": "Sept, 2022",
+    "endDate": "Present",
+    "experiences": ["Lorem", "ipsum"],
+    "imageSrc": "assets/history/matrixgo.png"
+  },
+  {
+    "role": "UI Designer",
+    "organisation": "Matrix GO",
+    "startDate": "Aug, 2021",
+    "endDate": "Aug, 2022",
+    "experiences": ["Lorem", "ipsum"],
+    "imageSrc": "assets/history/matrixgo.png"
+  }
+]
