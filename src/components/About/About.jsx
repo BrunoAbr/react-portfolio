@@ -21,8 +21,7 @@ export const About = () => {
                     <div className={styles.aboutItemText}>
                         <h3>Desenvolvedor Backend</h3>
                         <p>
-                            Lorem ipsum dolor sit amet consectetur adipisicing elit. Sit expedita id pariatur excepturi ipsam et nulla ab adipisci ve
-                            l repudiandae laborum atque vitae eaque minima repellat, cum blanditiis possimus tempora?
+                           Experiência em desenvolvimento de APIs, scripts, chatbots e sistemas otimizados utilizando <strong>Node.js</strong> como base.
                         </p>
 
                     </div>
@@ -32,8 +31,7 @@ export const About = () => {
                     <div className={styles.aboutItemText}>
                         <h3>Desenvolvedor FrontEnd</h3>
                         <p>
-                            Lorem ipsum dolor sit amet consectetur adipisicing elit. Sit expedita id pariatur excepturi ipsam et nulla ab adipisci ve
-                            l repudiandae laborum atque vitae eaque minima repellat, cum blanditiis possimus tempora?
+                            Criações de sites responsivos e otimizados utilizando <strong>HTML, CSS e JavaScript</strong>.
                         </p>
 
                     </div>
@@ -43,8 +41,7 @@ export const About = () => {
                     <div className={styles.aboutItemText}>
                         <h3>DevOps</h3>
                         <p>
-                            Lorem ipsum dolor sit amet consectetur adipisicing elit. Sit expedita id pariatur excepturi ipsam et nulla ab adipisci ve
-                            l repudiandae laborum atque vitae eaque minima repellat, cum blanditiis possimus tempora?
+                            Algumas certificações na área de redes, além de experiência como SysAdmin, com conhecimentos em Docker, atuando desde o desenvolvimento até o deploy de aplicações, incluindo configuração de ambientes e automação de processos.
                         </p>
 
                     </div>

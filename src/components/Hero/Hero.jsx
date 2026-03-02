@@ -14,7 +14,7 @@ export const Hero = () => {
                 Possuo experiência no desenvolvimento de soluções, integração
                 de APIs REST (JSON), ERP, criação de fluxos para chatbots e
                 automação de processos, conectando sistemas e otimizando operações do negócio,
-                utilizando Node.JS, React, Python, HTML, CSS, Express e Git.
+                utilizando <strong>Node.JS, React, Python, HTML, CSS, Express e Git.</strong>
             </p>
             <a href="mailto:bruno.abreuxyz@gmail.com" className={styles.contactBtn}>Contate-me</a>
         </div>

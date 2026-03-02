@@ -1,18 +1,18 @@
 [
   {
-    "role": "Software Engineer",
+    "role": "Analista de Automação e Chatbots",
     "organisation": "Matrix Go",
-    "startDate": "Sept, 2022",
+    "startDate": "Maio, 2025",
     "endDate": "Present",
-    "experiences": ["Lorem", "ipsum"],
+    "experiences": ["Integração, desenvolvimento e manutenção de APIs REST (JSON) e Scripts", "Integração de soluções de IA com sistemas internos e plataformas externas."],
     "imageSrc": "assets/history/matrixgo.png"
   },
   {
-    "role": "UI Designer",
+    "role": "Analista de Telefonia e Rede IP | Pleno",
     "organisation": "Matrix GO",
-    "startDate": "Aug, 2021",
-    "endDate": "Aug, 2022",
-    "experiences": ["Lorem", "ipsum"],
+    "startDate": "Out, 2022",
+    "endDate": "Present",
+    "experiences": ["Desenvolvimento em Integração de Sistemas.", "Implantação de servidores Asterisk."],
     "imageSrc": "assets/history/matrixgo.png"
   }
 ]

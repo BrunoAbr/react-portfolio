@@ -1,0 +1,18 @@
+[
+  {
+    "title": "Controle de Gastos",
+    "imageSrc": "assets/projects/transacao.png",
+    "description": "Aplicação web para controle de gastos pessoais",
+    "skills": ["HTML", "CSS", "Node", "Jest", "Express"],
+    "demo": "https://www.example.com",
+    "source": "https://github.com/BrunoAbr/spending-control"
+  },
+  {
+    "title": "Bot Discord para freelancer",
+    "imageSrc": "assets/projects/discordBot.png",
+    "description": "Bot desenvolvido para buscar novas vagas freelancers e enviar ao Discord via Webhook.",
+    "skills": ["Node", "Axios", "Puppeteer", "Docker"],
+    "demo": "https://www.example.com",
+    "source": "https://github.com/BrunoAbr/job-discord-bot"
+  }
+]
