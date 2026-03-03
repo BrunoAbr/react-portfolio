@@ -5,7 +5,7 @@
     "startDate": "Maio, 2025",
     "endDate": "Present",
     "experiences": ["Integração, desenvolvimento e manutenção de APIs REST (JSON) e Scripts", "Integração de soluções de IA com sistemas internos e plataformas externas."],
-    "imageSrc": "./assets/history/matrixgo.png"
+    "imageSrc": "assets/history/matrixgo.png"
   },
   {
     "role": "Analista de Telefonia e Rede IP | Pleno",
