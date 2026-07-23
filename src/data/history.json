@@ -1,18 +1,19 @@
 [
-  {
-    "role": "Analista de Automação e Chatbots",
-    "organisation": "Matrix Go",
-    "startDate": "Maio, 2025",
-    "endDate": "Present",
-    "experiences": ["Integração, desenvolvimento e manutenção de APIs REST (JSON) e Scripts", "Integração de soluções de IA com sistemas internos e plataformas externas."],
-    "imageSrc": "assets/history/matrixgo.png"
-  },
+
   {
     "role": "Analista de Telefonia e Rede IP | Pleno",
     "organisation": "Matrix GO",
     "startDate": "Out, 2022",
-    "endDate": "Present",
-    "experiences": ["Desenvolvimento em Integração de Sistemas.", "Implantação de servidores Asterisk."],
+    "endDate": "Presente",
+    "experiences": ["Administração e manutenção de servidores Linux (SysAdmin).", "Atuação em troubleshooting de infraestrutura, rede e VoIP."],
+    "imageSrc": "assets/history/matrixgo.png"
+  },
+  {
+    "role": "Especialista de Automação e Chatbots II",
+    "organisation": "Matrix Go",
+    "startDate": "Maio, 2025",
+    "endDate": "Presente",
+    "experiences": ["Criação de scripts e automações utilizando Python e JavaScript.", "Integração de soluções de IA com sistemas internos e plataformas externas."],
     "imageSrc": "assets/history/matrixgo.png"
   }
 ]

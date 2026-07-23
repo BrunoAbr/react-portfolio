@@ -17,6 +17,16 @@ export const About = () => {
                 />
                 <ul className={styles.aboutItems}>
                     <li className={styles.aboutItem}>
+                        <img src={linuxIcon} alt="Icone do linux" />
+                    <div className={styles.aboutItemText}>
+                        <h3>DevOps</h3>
+                        <p>
+                            Algumas certificações na área de redes, além de experiência como SysAdmin, com conhecimentos em Docker, Terraform, CI/CD e Cloud, atuando desde o desenvolvimento até o deploy de aplicações, incluindo configuração de ambientes e automação de processos.
+                        </p>
+
+                    </div>
+                    </li>
+                    <li className={styles.aboutItem}>
                         <img src={serverIcon} alt="Icone de servidor" />
                     <div className={styles.aboutItemText}>
                         <h3>Desenvolvedor Backend</h3>
@@ -33,19 +43,9 @@ export const About = () => {
                         <p>
                             Criações de sites responsivos e otimizados utilizando <strong>HTML, CSS e JavaScript</strong>.
                         </p>
-
                     </div>
                     </li>
-                    <li className={styles.aboutItem}>
-                        <img src={linuxIcon} alt="Icone do linux" />
-                    <div className={styles.aboutItemText}>
-                        <h3>DevOps</h3>
-                        <p>
-                            Algumas certificações na área de redes, além de experiência como SysAdmin, com conhecimentos em Docker, atuando desde o desenvolvimento até o deploy de aplicações, incluindo configuração de ambientes e automação de processos.
-                        </p>
-
-                    </div>
-                    </li>
+                    
                 </ul>
             </div>
         </section>

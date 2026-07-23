@@ -8,10 +8,18 @@
     "source": "https://github.com/BrunoAbr/spending-control"
   },
   {
-    "title": "Bot Discord para freelancer",
-    "imageSrc": "assets/projects/discordBot.png",
-    "description": "Bot desenvolvido para buscar novas vagas freelancers e enviar ao Discord via Webhook.",
-    "skills": ["Node", "Axios", "Puppeteer", "Docker"],
+    "title": "Infraestrutura como código",
+    "imageSrc": "assets/projects/infraascode.png",
+    "description": "Infra necessária para hospedar a aplicação web criada através de código",
+    "skills": ["Terraform", "AWS", "GitHub Actions"],
+    "demo": "https://www.example.com",
+    "source": "https://github.com/BrunoAbr/infra-as-code-lab"
+  },
+  {
+    "title": "Website Dokcerizado",
+    "imageSrc": "assets/projects/webdocker.png",
+    "description": "Aplicação web estática containerizada utilizando Docker e Nginx.",
+    "skills": ["Docker", "GitHub Actions", "Nginx"],
     "demo": "https://www.example.com",
     "source": "https://github.com/BrunoAbr/job-discord-bot"
   }

@@ -7,14 +7,9 @@ export const Hero = () => {
         <div className={styles.content}>
             <h1 className={styles.title}>Olá, meu nome é Bruno</h1>
             <p className={styles.description}>
-                Desenvolvedor focado em integrações, automação e sistemas de
-                comunicação, com experiência prática em telefonia IP e
-                desenvolvimento de APIs voltadas para soluções escaláveis e
-                eficientes.
-                Possuo experiência no desenvolvimento de soluções, integração
-                de APIs REST (JSON), ERP, criação de fluxos para chatbots e
-                automação de processos, conectando sistemas e otimizando operações do negócio,
-                utilizando <strong>Node.JS, React, Python, HTML, CSS, Express e Git.</strong>
+                Profissional de tecnologia com foco em automação, infraestrutura e cultura DevOps, com experiência prática em integração de sistemas e implementação de soluções voltadas para eficiência operacional, escalabilidade e confiabilidade dos ambientes.<br></br>
+                Possuo conhecimentos em ambientes Linux, controle de versão com Git, conteinerização com Docker e implementação de pipelines de CI/CD, aplicando boas práticas para automatizar processos de entrega e garantir maior qualidade e agilidade nas operações.
+                <strong> Python, Node.JS, React, Docker, Terraform, Git, Ansible e AWS.</strong>
             </p>
             <a href="mailto:bruno.abreuxyz@gmail.com" className={styles.contactBtn}>Contate-me</a>
         </div>
